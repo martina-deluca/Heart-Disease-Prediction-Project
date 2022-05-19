@@ -1,0 +1,17 @@
+0	BMI	q
+1	Smoking	q
+2	AlcoholDrinking	q
+3	Stroke	q
+4	PhysicalHealth	q
+5	MentalHealth	q
+6	DiffWalking	q
+7	Sex	q
+8	AgeCategory	q
+9	Race	q
+10	Diabetic	q
+11	PhysicalActivity	q
+12	GenHealth	q
+13	SleepTime	q
+14	Asthma	q
+15	KidneyDisease	q
+16	SkinCancer	q
