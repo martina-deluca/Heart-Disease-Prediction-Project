@@ -1,4 +1,4 @@
-# Scikit-learn-Assignment
+# Heart Disease Prediction Project
 
 The objective of this project was to perform data analysis and apply machine learning algorithms over a data set that contains health information to predict if a person is more likely to have heart disease in the future.
 
